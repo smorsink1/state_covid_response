@@ -10,7 +10,7 @@ It is important to account for the variation in the threat posed by COVID-19 to 
 
 My findings resoundingly suggest that heterogeneity in state COVID-19 response was not justified by heterogeneity in the risk posed by COVID-19 to states. States that issued Stay at Home orders at later dates were simply under high-risk from COVID-19 for longer than states that issued Stay at Home orders at earlier dates. Despite the theoretical benefits of a state-by-state response, in this case, an early national response would have been much more effective. 
 
-I also challenge the narrative that Democratic governors responded faster, highlighting the need to account for conditions in individual states and test for statistical significance. Though, on average, Democratic governors did respond faster relative to conditions in their state, this difference was not statistically significant. 
+In line with a narrative that has emerged, there is evidence that Democratic governors responded faster to COVID-19 than their Republican counterparts. This methodology is unique in that it accounts for conditions in individual states. However, though Democratic governors did respond faster relative to conditions in their state, this difference was not statistically significant. 
 
 Lastly, I find no relationship between governor experience and speed of COVID-19 response.
 
